@@ -4,6 +4,7 @@
 In this course, I focused purely on **algorithmic thinking and problem-solving using flowcharts** without writing a single line of programming code. I worked through the flowcharts **by hand using pen and paper**, tracing every step, variable state, and branch manually to build a strong mental model of problem logic before moving into programming syntax.
 
 ## Core Concepts Covered
+* **50 Hand-Solved Problems:** Solved and traced **50 algorithm problems** manually on paper with a pen, translating each problem statement into clear step-by-step flowchart logic.
 * **Pen-and-Paper Flowcharting:** Drawing and tracing flowcharts by hand on paper with a pen to map out step-by-step logic, inputs, processing, and outputs without relying on code or screen shortcuts.
 * **Programming Logic & Control Flow:** Understanding sequential execution, decision-making (`if` conditions), and repetition/loops (`while` / `for` logic) visually through flowcharts.
 * **Relational Operators:** Comparing values using greater than (`>`), less than (`<`), greater than or equal (`>=`), less than or equal (`<=`), equal to (`==`), and not equal to (`!=`).
