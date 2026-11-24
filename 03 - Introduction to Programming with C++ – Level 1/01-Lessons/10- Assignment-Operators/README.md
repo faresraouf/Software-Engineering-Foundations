@@ -1,4 +1,5 @@
 # 10 - Assignment Operators
+
 ## Lesson Overview
 ![Lesson Screenshot](./lesson.png)
 
