@@ -1,0 +1,3 @@
+# Problem 44 - Day Of Week
+
+![Problem](problem.png)
